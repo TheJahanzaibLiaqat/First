@@ -1,0 +1,56 @@
+.ms-6 {
+    margin-left: 500px !important;
+}
+.background-img {
+    background-image: url(img/CSS.jpg);
+    height: 400px;
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    
+}
+.pt-6 {
+    padding-top: 140px;
+}
+.btn-center {
+    margin-left: 637px;
+}
+.poligon {
+    display: inline-block;
+    width: 100px;
+    height: 80px;
+    background: linear-gradient(#ffc107 50%, #ffc825 50%);
+    box-sizing: border-box;
+    clip-path: polygon(50% 0%,100% 25%,100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    margin-left: 50px;
+}
+.background-img1 {
+    background-image: url(img/sky.jpg);
+    height: 400px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.pt-6 {
+    padding-top: 100px;
+}
+.ms-7 {
+    margin-left: 520px;
+}
+.ms-8 {
+    margin-left: 300px;
+}
+.doo {
+    height: 400px;
+    width: 100%;
+}
+.ps-6 {
+    padding-left: 200px;
+}
+.bg-darkblue {
+    background-color: teal !important;
+}
+.doo1{
+    height: 30px;
+}
+
